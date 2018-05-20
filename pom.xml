@@ -214,8 +214,8 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <id>deployment</id>
+            <url>http://192.168.98.139:8081/repository/Webapp-repo1/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
